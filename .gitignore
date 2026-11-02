@@ -7,6 +7,3 @@ desktop.ini
 .vscode/
 .idea/
 *.swp
-
-# Node（将来使う場合）
-node_modules/
